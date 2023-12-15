@@ -1,34 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Live at @https://next-js-application-with-firebase-authe-git-663d5c-priyanshu475.vercel.app/
 
-## Getting Started
 
-First, run the development server:
+#   Next.js-Application-with-Firebase-Authentication-and-GIPHY-API-Integration
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Next.js + Tailwind CSS + API Integration + Firebase
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+</br>
+</br>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+# Login/SignUp Home Page
+![Screenshot from 2023-12-15 23-23-52](https://github.com/Priyanshu475/Next.js-Application-with-Firebase-Authentication-and-GIPHY-API-Integration/assets/96469123/9f7ee6ea-ef93-4b19-8f14-a730f2e320a0)
 
-To learn more about Next.js, take a look at the following resources:
+</br>
+</br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# GIF Search Bar
+![Screenshot from 2023-12-15 23-24-25](https://github.com/Priyanshu475/Next.js-Application-with-Firebase-Authentication-and-GIPHY-API-Integration/assets/96469123/5b48a619-3302-4719-ae86-f9a5cfd8961c)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+</br>
+</br>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot from 2023-12-15 23-25-11](https://github.com/Priyanshu475/Next.js-Application-with-Firebase-Authentication-and-GIPHY-API-Integration/assets/96469123/6febb34f-2cf0-41ae-a924-fc98c1690f76)
+
+# Thank You !!
+
